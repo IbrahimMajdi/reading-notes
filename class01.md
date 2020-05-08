@@ -75,4 +75,4 @@ web page.
 
 > html5 new elements
 
-![new](https://image.slidesharecdn.com/html5-130616031843-phpapp01/95/new-elements-features-in-html5-16-638.jpg?cb=1371352931)
+![new](https://codebridgeplus.com/wp-content/uploads/html5-new.jpg)
