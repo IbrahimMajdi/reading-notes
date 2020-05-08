@@ -3,11 +3,11 @@
 > In order for you to find the location of the web server, your browser will first connect
 to a Domain Name System (DNS) server.
 
-[DNS](https://www.seobility.net/en/wiki/images/d/d0/DNS-Server.png)
+![DNS](https://www.seobility.net/en/wiki/images/d/d0/DNS-Server.png)
 
 ## HTML Structure
 
-[html](https://www.jaimebutler.ch/jb-edit/wp-content/uploads/2014/07/Basic-HTML.png)
+![html](https://www.jaimebutler.ch/jb-edit/wp-content/uploads/2014/07/Basic-HTML.png)
 
 ### comments in html
 
@@ -70,7 +70,7 @@ web page.
 ## HTML5 
 
 >html5 structure
-[struct](https://miro.medium.com/max/393/1*ek7GdyA4kQly94xeShMSGg.png)
+![struct](https://miro.medium.com/max/393/1*ek7GdyA4kQly94xeShMSGg.png)
 
 > html5 new elements
-[new](https://codebridgeplus.com/wp-content/uploads/html5-new.jpg)
+![new](https://codebridgeplus.com/wp-content/uploads/html5-new.jpg)
