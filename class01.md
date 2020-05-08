@@ -76,3 +76,69 @@ web page.
 > html5 new elements
 
 ![new](https://codebridgeplus.com/wp-content/uploads/html5-new.jpg)
+
+# How to approach building a website
+
+> ## top main things to focus at are:
+
+>1. Foucs on the taget audience.
+>2. ask waht are the audience needs.
+>3. focus on how to represent important information to your audience.
+>4. how to get your audience back again.
+>5. plane your site structure by using sites maps.
+>6. organize your site information  by using wireframes, for each page.
+>7. good website design helps your audience understand what your website about.
+>8. use sizes,colors styles to diffirentiate between information.
+
+
+# Javascript
+
+> JavaScript is a programming language that can be used to modify website content and make it behave in different ways in response to a user's actions. Common uses for JavaScript include confirmation boxes, calls-to-action, and adding new identities to existing information
+
+## writing a script steps
+> A script is a series of instructions that the computer can follow in order to achieve a goal.
+
+![ssteps](https://images.slideplayer.com/25/7703962/slides/slide_2.jpg)
+
+## object and properties
+
+![oop](https://cdn.ttgtmedia.com/rms/onlineimages/whatis-object_oriented_programming_half_column_mobile.png)
+
+### Objects
+
+> JavaScript objects are containers for named values called properties, events or methods.
+
+### Methods
+
+>The code for a method can contain lots of
+instructions that together represent one task.
+
+### Events
+
+>When a specific event happens, that event can be
+used to trigger a specific section of the code.
+
+## The Document Object
+
+>Using the document object, you can access and change what content
+users see on the page and respond to how they interact with it.
+
+![dom](https://www.w3schools.com/js/pic_htmltree.gif)
+
+## How a browser sees a web page.
+
+![render](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEhMRLoFv3-9on1Mrh5RMmmr2qS5fbi2p4QE8DOnLIOR8-cdDO&usqp=CAU)
+
+
+
+## progresive enhancment
+
+>These three layers form the basis of a popular approach to building web pages called
+progressive enhancement.
+
+![pe](https://blog.teamtreehouse.com/wp-content/uploads/2014/11/progressive-enhancement.png)
+
+## The <script> tag
+
+> The `<script>`tag is used to define a script (JavaScript).
+  The `<script>` element either contains scripting statements, or it points to an external script file through the `src` attribute.
