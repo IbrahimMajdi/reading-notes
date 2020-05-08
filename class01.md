@@ -127,7 +127,7 @@ users see on the page and respond to how they interact with it.
 
 ## How a browser sees a web page.
 
-![render](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEhMRLoFv3-9on1Mrh5RMmmr2qS5fbi2p4QE8DOnLIOR8-cdDO&usqp=CAU)
+![render](https://www.mateoclarke.com/public/images/browser-rendering.png)
 
 
 
