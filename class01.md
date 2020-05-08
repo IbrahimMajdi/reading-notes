@@ -73,4 +73,4 @@ web page.
 ![struct](https://miro.medium.com/max/393/1*ek7GdyA4kQly94xeShMSGg.png)
 
 > html5 new elements
-![new](https://codebridgeplus.com/wp-content/uploads/html5-new.jpg)
+![new](https://image.slidesharecdn.com/html5-130616031843-phpapp01/95/new-elements-features-in-html5-16-638.jpg?cb=1371352931)
