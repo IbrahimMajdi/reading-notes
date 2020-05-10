@@ -16,7 +16,7 @@
 ![use](https://www.bitdegree.org/learn/storage/media/images/8c4493d3-110c-4a95-8b70-7626ce2d2f4e.jpg)
 
 ### CSS Selectors
-![sel](vhttps://i.pinimg.com/originals/bc/97/96/bc97965579512f8a6d2303934f599c65.png)
+![sel](https://i.pinimg.com/originals/bc/97/96/bc97965579512f8a6d2303934f599c65.png)
 
 ## Javascript
 > A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon.
@@ -27,16 +27,12 @@
 
 >A script will have to temporarily store the bits of information it
 needs to do its job. It can store this data in variables.
+
 ![var](https://miro.medium.com/max/734/1*IKWdLy1iqPGcVgaYZDlhvg.png)
 
 ### Data Types
 
 ![DT](https://www.supinfo.com/articles/resources/231580/5418/1.png)
-
-### Javascript variables Namin Rules
-
-![rules](
-    https://www.google.com/url?sa=i&url=https%3A%2F%2Fslideplayer.com%2Fslide%2F10568090%2F&psig=AOvVaw1VYVBQ43dKXYeZG4L4RxKB&ust=1588458195462000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCg_obak-kCFQAAAAAdAAAAABAK)
 
 ### Arrays
 
