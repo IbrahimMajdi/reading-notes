@@ -9,8 +9,7 @@
 
 > CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.
 
-![css](https://lh3.googleusercontent.com/proxy/
-evFh1yeHoznlllK0onSJVyLLQPzAXLyB3M6nu3Y8hiEdWzqDFrEO3-qCwkAccG1-k3Wmkr4OcFYSetZegmCGXDIqKxc4WMpUDvZYl5HzyD3-a1niv4N98qLpHmM)
+![css](https://lh3.googleusercontent.com/proxy/evFh1yeHoznlllK0onSJVyLLQPzAXLyB3M6nu3Y8hiEdWzqDFrEO3-qCwkAccG1-k3Wmkr4OcFYSetZegmCGXDIqKxc4WMpUDvZYl5HzyD3-a1niv4N98qLpHmM)
 
 ## using CSS
 
@@ -36,7 +35,8 @@ needs to do its job. It can store this data in variables.
 
 ### Javascript variables Namin Rules
 
-![rules](https://www.google.com/url?sa=i&url=https%3A%2F%2Fslideplayer.com%2Fslide%2F10568090%2F&psig=AOvVaw1VYVBQ43dKXYeZG4L4RxKB&ust=1588458195462000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCg_obak-kCFQAAAAAdAAAAABAK)
+![rules](
+    https://www.google.com/url?sa=i&url=https%3A%2F%2Fslideplayer.com%2Fslide%2F10568090%2F&psig=AOvVaw1VYVBQ43dKXYeZG4L4RxKB&ust=1588458195462000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCg_obak-kCFQAAAAAdAAAAABAK)
 
 ### Arrays
 
