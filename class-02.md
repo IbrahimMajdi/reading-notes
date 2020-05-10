@@ -52,3 +52,24 @@ needs to do its job. It can store this data in variables.
 
 ![CO](https://lh3.googleusercontent.com/proxy/7b4yVjsOoEW0bXhzJPPXZtLFQwmX_iXzyyJ4wCqLAOpJht-IdqyeN8HuEMYOjGxaalhxdV3YvF-_sL58kwpaaR60AulyzXBAO9K7L3Xd)
 
+### Conditional statments
+> The if statement specifies a block of code to be executed if a condition is true:
+
+~~~~
+if (condition) {
+  // block of code to be executed if the condition is true
+}
+~~~~
+
+>The else statement specifies a block of code to be executed if the condition is false:
+
+~~~~
+if (condition) {
+  // block of code to be executed if the condition is true
+} else {
+  // block of code to be executed if the condition is false
+}
+~~~~
+
+![cs](https://cdn.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-if-else-statment.png)
+
