@@ -8,7 +8,7 @@ Read #      | Link
 ------------|-------------
 Read01      |[link01](https://github.com/IbrahimMajdi/reading-notes/blob/master/class01.md)
 Read02      |[link02](https://ibrahimmajdi.github.io/reading-notes/class-02)
-Read03      |[link03]()
+Read03      |[link03](https://ibrahimmajdi.github.io/reading-notes/class03)
 Read04      |[link04]()
 Read05      |[link05]()
 Read06      |[link06]()
