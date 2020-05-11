@@ -1,5 +1,5 @@
 ### HTML lists
-![li](https://www.google.com/url?sa=i&url=http%3A%2F%2Fways2web.weebly.com%2Fhtml-lists.html&psig=AOvVaw2h9lXl4Cu6WqvDc1_i6cxb&ust=1589312607663000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDaxf_IrOkCFQAAAAAdAAAAABAD)
+![li](https://ways2web.weebly.com/uploads/5/4/4/8/54485903/8033093_orig.png)
 
 ### CSS Boxes
 
