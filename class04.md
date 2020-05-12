@@ -21,6 +21,7 @@ a page that can be linked to.
 ![pos](https://i.stack.imgur.com/gz265.png)
 
 ### CSS Floating
+
 ![flo](https://www.1keydata.com/css-tutorial/example-float-right-float-left.jpg)
 
 
