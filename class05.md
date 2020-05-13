@@ -23,6 +23,7 @@ color: rgb(100,100,90);}
 
 ### Texts
 
-![img](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQedZ1y1imOoBpKagjGfr7WBXi8YOUkwf0B383LqTN4zlBBI2x4&usqp=CAU)
+![we](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQedZ1y1imOoBpKagjGfr7WBXi8YOUkwf0B383LqTN4zlBBI2x4&usqp=CAU)
+
 
 ![img](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-tFqe7JDurgPHHwMoXVp15fBJB6QojEsOTZsU5gODe1taPRNJ&usqp=CAU)
