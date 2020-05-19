@@ -34,3 +34,14 @@ maxlength="30" />
 your comments...</textarea>
 </form>
 ~~~~
+
+### CSS list-style-type
+
+![](https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/images/ff975683.list-style-type%28en-us%2Cvs.85%29.png)
+
+> CSS Table proprites
+![](https://images.slideplayer.com/27/9012039/slides/slide_6.jpg)
+
+### JS Events
+
+![](https://2.bp.blogspot.com/-IWgKGco1B6g/W2BEIcoQ0RI/AAAAAAAADnk/JGpEVsnBQ38DXU-sMzbL1cxFV9mdZCoRACLcBGAs/s1600/Events%2Bin%2BJavascript.png)
