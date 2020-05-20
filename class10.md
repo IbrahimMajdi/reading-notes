@@ -6,7 +6,7 @@
 - ReferenceError: Raised when an invalid reference is used.
 - SyntaxError: Raised when a syntax error occurs while parsing JavaScript code.
 - TypeError: Raised when the type of a variable is not as expected.
-- URIError: Raised when the encodeURI() or decodeURI() functions are used in an
+- URIError: Raised when the encodeURI() or decodeURI() functions are used in an incorrect manner.
 
 ![](https://www.bookofnetwork.com/images/javascript-images/JS_Slide-120_03Mar17_1111.png)
 ![](https://miro.medium.com/max/2880/1*BwARRnm0-gFoh-Rq_ubbwQ.png)
