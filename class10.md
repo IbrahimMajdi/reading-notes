@@ -1,12 +1,12 @@
 
 >Javascript Errors Types
 
->-EvalError: Raised when the eval() functions is used in an incorrect manner.
--RangeError: Raised when a numeric variable exceeds its allowed range.
--ReferenceError: Raised when an invalid reference is used.
--SyntaxError: Raised when a syntax error occurs while parsing JavaScript code.
--TypeError: Raised when the type of a variable is not as expected.
--URIError: Raised when the encodeURI() or decodeURI() functions are used in an
+- EvalError: Raised when the eval() functions is used in an incorrect manner.
+- RangeError: Raised when a numeric variable exceeds its allowed range.
+- ReferenceError: Raised when an invalid reference is used.
+- SyntaxError: Raised when a syntax error occurs while parsing JavaScript code.
+- TypeError: Raised when the type of a variable is not as expected.
+- URIError: Raised when the encodeURI() or decodeURI() functions are used in an
 
 ![](https://www.bookofnetwork.com/images/javascript-images/JS_Slide-120_03Mar17_1111.png)
 ![](https://miro.medium.com/max/2880/1*BwARRnm0-gFoh-Rq_ubbwQ.png)
