@@ -1,4 +1,6 @@
 ## chart js
+
+![](https://marketplace-cdn.atlassian.com/files/images/39451ee7-deb8-4adb-99c1-cd4479d4e8c5.png)
 >Chart js is a free open-source JavaScript library for data visualization.
 
 >Chart js have a great documentation to 
