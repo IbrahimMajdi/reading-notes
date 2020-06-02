@@ -6,14 +6,15 @@
 >Three-dimensional transforms work on both the x and y axes, as well as the z axis
 
 > Using the translateX value will change the position of an element on the horizontal axis while using the translateY value will change the position of an element on the vertical axis.
+
 ~~~~
 <figure class="box-1">Box 1</figure>
 ~~~~
+
 ~~~~
 .box-1 {
   transform: rotate(20deg);
 }
-
 
 .box-1 {
   transform: scale(.75);
