@@ -1,14 +1,14 @@
 > the researchers found that there were five key characteristics of enhanced teams
 
--sychological safety: Everyone feels safe in taking risks around their team members, and that they won’t be embarrassed or punished for doing so.
+- sychological safety: Everyone feels safe in taking risks around their team members, and that they won’t be embarrassed or punished for doing so.
 
--Dependability: Everyone completes quality work on time.
+- Dependability: Everyone completes quality work on time.
 
--Structure and clarity: Everyone knows what their specific expectations are. These expectations must be challenging yet attainable.
+- Structure and clarity: Everyone knows what their specific expectations are. These expectations must be challenging yet attainable.
 
--Meaning: Everyone has a sense of purpose in their work (i.e., financial security, supporting family, helping the team succeed, etc.).
+- Meaning: Everyone has a sense of purpose in their work (i.e., financial security, supporting family, helping the team succeed, etc.).
 
--Impact: Everyone sees that the result of their work actually contributes to the organization’s overall goals.
+- Impact: Everyone sees that the result of their work actually contributes to the organization’s overall goals.
 
 > Right brained people are said to be more intuitive, creative, free-thinking and have the ability to collaborate and connect. 
 
